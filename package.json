@@ -1,0 +1,13 @@
+{
+  "name": "opencode-edith",
+  "version": "0.1.0",
+  "description": "E.D.I.T.H. — Every Day Is Theoretically Happy. The hand-rolled OpenCode plugin: boot-continuity, person-layer, conscience gates. Pre-release, not for deployment.",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": ["src"],
+  "dependencies": {
+    "@opencode/plugin": "latest"
+  }
+}
