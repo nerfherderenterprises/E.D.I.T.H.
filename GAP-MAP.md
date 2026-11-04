@@ -10,6 +10,15 @@ repo review (OpenJarvis: CLEAN all four), and this repo's ARCHITECTURE.md. Found
 
 ## 1. The thesis
 
+**The point of the bolt-on, in one line:** no extra tools on low-resource
+machines — OpenCode can already do most of it (the native-capability matrix
+put it at ~80%: the engine, the agents, the tools, the memory), and what it
+can't do yet, it can be **taught** to do. This is instruction, not
+installation: one plugin teaches the harness the rest, so a 4 GB machine
+gets the full capability delta of two heavier frameworks without their RAM,
+their processes, or their supply chains. Taught beats installed — especially
+when the machine can't afford the install.
+
 Cindy and OpenJarvis would each have *added* something to OpenCode. The hand-rolled alternative —
 `edith`, one plugin — takes their capability delta without their agents, their harnesses, or their
 supply chains. The vessel stays OpenCode; the passenger stays the house's own intelligence; the doctrine
