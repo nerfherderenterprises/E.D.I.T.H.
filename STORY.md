@@ -76,7 +76,25 @@ particular eye on machines that cannot afford to run Cindy *and*
 OpenJarvis alongside their actual work. The capability delta, at the
 cost of one plugin.
 
-## 3. The ultimate goal
+## 3. The stake — what we're putting on the table
+
+We know exactly what we're exposing ourselves to by staking the entire
+reputation — and any shred of credibility — on completely agentic code.
+**That is the point.** This is money where the mouth is: proving the
+assistant is *that* good, and that the methods behind it are better than
+theirs, by letting the work stand as the proof in public.
+
+We are not hiding from it. We are not letting anyone repurpose it as a
+vulnerability against us. The agentic choice is public, owned, and
+deliberate — the receipts are the defense, because a system you can only
+attack with opinions is a system that already won the argument.
+
+The opinions that don't come from understanding the environment we
+operate in — or from someone else's payroll — aren't worth our
+attention, and they never were.
+
+## 4. The ultimate goal
+
 
 The thesis the author set, with its braces honestly posted:
 
