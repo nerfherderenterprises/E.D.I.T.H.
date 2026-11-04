@@ -1,0 +1,18 @@
+E.D.I.T.H. — Every Day Is Theoretically Happy
+Copyright (c) 2026 Nerf Herder Enterprises.
+
+PRE-RELEASE — THIS IS NOT THE FINAL VERSION.
+
+You are welcome to use it, try it, modify it, and build on it — that is
+the point of releasing it. But be clearly advised:
+
+  - The API, the architecture, and the name may all change before 1.0.
+  - It is experimental. It has not finished becoming what it will be.
+  - It comes with NO WARRANTY of any kind, express or implied.
+  - The license itself may be revised at the final release.
+
+Feedback, issues, and war stories are welcome. The final version will
+announce itself — until then, treat everything here as a working draft
+that happens to run.
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
